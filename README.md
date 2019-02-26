@@ -10,12 +10,12 @@ Your ID:
 
 HW1 consists of two parts: writing exercises and coding exercises.
 
-### Part One: Writing 
+### Part One: Writing (30 PTS)
 
 1. Finish the problems in `HW1.tex`.
 2. Upload the pdf version of your answers to your repertory.
 
-### Part Two: Coding
+### Part Two: Coding (70 PTS)
 
 1. Download and unzip `HW1.zip`.
 2. Finish `HW1.ipynb`. 
